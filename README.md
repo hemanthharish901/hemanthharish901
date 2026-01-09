@@ -22,6 +22,21 @@ I enjoy blending **electronics with artificial intelligence** to build smart, ef
 
 ---
 
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/hemanthharish901  
+
+---
+
+### ⚡ Fun Fact
+I like making hardware think with AI 😄  
+
+---
+
+✨ *Where Embedded meets AI — that’s my path!* 🚀
+
+
 ### 💬 Ask Me About
 - Embedded systems  
 - ECE basics  
