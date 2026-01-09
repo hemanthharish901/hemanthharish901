@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hey! I'm Hemanth Harish 🤖⚡  
 
-<!--
-**hemanthharish901/hemanthharish901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student | 🤯 AI Explorer | ⚙️ Embedded Engineering Enthusiast  
 
-Here are some ideas to get you started:
+I enjoy blending **electronics with artificial intelligence** to build smart, efficient and future-ready systems 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- ⚡ Electronics & Communication Engineering student  
+- ⚙️ Strong interest in Embedded Systems  
+- 🤖 Exploring Artificial Intelligence & Machine Learning  
+- 🎙️ Inspired by JARVIS-style AI assistants  
+
+---
+
+### 🔥 What I'm Doing Now
+- 🌱 Learning Embedded C, Microcontrollers & AI with Python  
+- 🔌 Strengthening ECE fundamentals  
+- 🧪 Building small Embedded + AI experiments  
+- 🎯 Goal: Explore AI deeply while focusing on becoming a skilled Embedded Engineer  
+
+---
+
+### 💬 Ask Me About
+- Embedded systems  
+- ECE basics  
+- AI fundamentals  
+- Student project ideas  
+
+---
+
+### 🛠 Tech Stack
