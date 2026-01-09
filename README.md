@@ -26,7 +26,7 @@ I enjoy blending **electronics with artificial intelligence** to build smart, ef
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/hemanthharish901  
-
+- LinkedIn : www.linkedin.com/in/hemanthharish
 ---
 
 ### ⚡ Fun Fact
